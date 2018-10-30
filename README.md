@@ -1,1 +1,1 @@
-When deploying from terminal, go to settings and att custom domain again bacause of reset.
+When deploying from terminal, go to settings and add custom domain again bacause of reset.
